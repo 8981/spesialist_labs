@@ -21,7 +21,6 @@ for (int i = 0; i < CLIENTS; i++)
             w.Flush();
             string result = r.ReadLine();
             Console.WriteLine(result);
-
         }
         catch (Exception e)
         {
