@@ -1,7 +1,5 @@
 ﻿# Visual Studio Code #
 .vscode/
-.bin/
-.obj/
 
 # Rider #
 .idea/
@@ -71,3 +69,4 @@ _ReSharper*/
 # Test Results #
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
+
