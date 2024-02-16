@@ -1,0 +1,15 @@
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\bin\Release\net8.0\1.6_Integral_lab.exe
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\bin\Release\net8.0\1.6_Integral_lab.deps.json
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\bin\Release\net8.0\1.6_Integral_lab.runtimeconfig.json
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\bin\Release\net8.0\1.6_Integral_lab.dll
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\bin\Release\net8.0\1.6_Integral_lab.pdb
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\1.6_Integral_lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\1.6_Integral_lab.AssemblyInfoInputs.cache
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\1.6_Integral_lab.AssemblyInfo.cs
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\1.6_Integral_lab.csproj.CoreCompileInputs.cache
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\1.6_Integral_lab.sourcelink.json
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\1.6_Integral_lab.dll
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\refint\1.6_Integral_lab.dll
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\1.6_Integral_lab.pdb
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\1.6_Integral_lab.genruntimeconfig.cache
+D:\Course\Клиент-Серверная разработка (Специалист)\labs\spesialist\spesialist_labs\1.6_Integral_lab\obj\Release\net8.0\ref\1.6_Integral_lab.dll
