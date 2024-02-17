@@ -16,7 +16,7 @@ public class Program
         {
             db.Database.EnsureDeleted();
             db.Database.EnsureCreated();
-
+            
             db.Courses.AddRange(
                 new Course() { Title = "Programming", Duration = 40, Description = "Study C#" },
                 new Course() { Title = "Language", Duration = 20, Description = "Study English" },
@@ -45,14 +45,28 @@ public class Program
                 Console.WriteLine($"{course.Id}.{course.Title} - {course.Description}\nCourse duration {course.Duration}");
         }
 
-        //изменение данных в базе
+        //удаление данных в базе
         using (AppConfiguration db = new AppConfiguration())
         {
             Course course = db.Courses.OrderBy(c => c.Duration).FirstOrDefault();
             db.Courses.Remove(course);
             db.SaveChanges();
-            Console.WriteLine("Courses with duration < 40");
+            Console.WriteLine("Remove first elment:");
             Console.WriteLine($"{course.Id}.{course.Title} - {course.Description}\nCourse duration {course.Duration}");
+        }
+
+        //Добавление элемента
+        using (AppConfiguration db = new AppConfiguration())
+        {
+
+            db.Courses.Add(
+            new Course() { Title = "Professional programming", Duration = 40, Description = "Study Client-Service application" }
+            );
+            db.SaveChanges();
+            var courses = db.Courses.ToList();
+            Console.WriteLine("Added new cource:");
+            foreach (Course course in courses)
+                Console.WriteLine($"{course.Id}.{course.Title} - {course.Description}\nCourse duration {course.Duration}");
         }
     }
 }
