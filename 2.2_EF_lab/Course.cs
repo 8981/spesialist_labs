@@ -12,5 +12,8 @@ namespace _2._2_EF_lab
         public string Title { get; set; }
         public int Duration { get; set; }
         public string? Description { get; set; }
+
+        public  List<Teacher> Teachers { get; set; } = new();
+        public  List<Student> Students { get; set; } = new();
     }
 }

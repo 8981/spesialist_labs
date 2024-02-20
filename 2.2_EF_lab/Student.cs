@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2._1_EF_lab
+namespace _2._2_EF_lab
 {
     internal class Student
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
+
+        public  List<Course> Courses { get; set; } = new ();
     }
 }
