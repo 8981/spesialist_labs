@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServiceClient";
+
+package GrpcService;
+
+import "google/protobuf/empty.proto";
+
+service CoursesService{
+
+  rpc ListCourses(google.protobuf.Empty) returns (ListReply);
+  rpc GetCourse(GetCourseRequest) returns (CourseReply);
+  rpc CreateCourse(CreateCourseRequest) returns (CourseReply);
+  rpc UpdateCourse(UpdateCourseRequest) returns (CourseReply);
+  rpc DeleteCourse(DeleteCourseRequest) returns (CourseReply);
+}
+ 
+message CreateCourseRequest{
+  string title=1;
+  int32 duration = 2;
+  string description=3;
+}
+ 
+message GetCourseRequest{
+  int32 id =1;
+}
+ 
+message UpdateCourseRequest{
+  int32 id=1;
+  string title=2;
+  int32 duration = 3;
+  string description=4;
+}
+ 
+message DeleteCourseRequest{
+  int32 id =1;
+}
+ 
+message ListReply{
+  repeated CourseReply Courses = 1;
+}
+ 
+message CourseReply{
+  int32 id = 1;
+  string title=2;
+  int32 duration = 3;
+  string description=4;
+}
