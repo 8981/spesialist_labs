@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Course\\\u041A\u043B\u0438\u0435\u043D\u0442-\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 (\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442)\\labs\\spesialist\\spesialist_labs\\3.1_WebAPI_lab\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F6DFC120-E283-4E50-BB31-8E777FEDF168}|3.1_WebAPI_lab\\3.1_WebAPI_lab.csproj|d:\\course\\\u043A\u043B\u0438\u0435\u043D\u0442-\u0441\u0435\u0440\u0432\u0435\u0440\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 (\u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442)\\labs\\spesialist\\spesialist_labs\\3.1_webapi_lab\\3.1_webapi_lab\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{F6DFC120-E283-4E50-BB31-8E777FEDF168}|3.1_WebAPI_lab\\3.1_WebAPI_lab.csproj|solutionrelative:3.1_webapi_lab\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E6BD5-2C36-45D1-9E58-D12AC32EFD54}|3.1_WebAPIClient_lab\\3.1_WebAPIClient_lab.csproj|d:\\course\\\u043A\u043B\u0438\u0435\u043D\u0442-\u0441\u0435\u0440\u0432\u0435\u0440\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 (\u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442)\\labs\\spesialist\\spesialist_labs\\3.1_webapi_lab\\3.1_webapiclient_lab\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{959E6BD5-2C36-45D1-9E58-D12AC32EFD54}|3.1_WebAPIClient_lab\\3.1_WebAPIClient_lab.csproj|solutionrelative:3.1_webapiclient_lab\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,32 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Course\\\u041A\u043B\u0438\u0435\u043D\u0442-\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 (\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442)\\labs\\spesialist\\spesialist_labs\\3.1_WebAPI_lab\\3.1_WebAPI_lab\\.gitignore",
-              "RelativeDocumentMoniker": "3.1_WebAPI_lab\\.gitignore",
-              "ToolTip": "D:\\Course\\\u041A\u043B\u0438\u0435\u043D\u0442-\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 (\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442)\\labs\\spesialist\\spesialist_labs\\3.1_WebAPI_lab\\3.1_WebAPI_lab\\.gitignore",
-              "RelativeToolTip": "3.1_WebAPI_lab\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-02-22T18:11:01.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Course\\\u041A\u043B\u0438\u0435\u043D\u0442-\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 (\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442)\\labs\\spesialist\\spesialist_labs\\3.1_WebAPI_lab\\3.1_WebAPIClient_lab\\.gitignore",
-              "RelativeDocumentMoniker": "3.1_WebAPIClient_lab\\.gitignore",
-              "ToolTip": "D:\\Course\\\u041A\u043B\u0438\u0435\u043D\u0442-\u0421\u0435\u0440\u0432\u0435\u0440\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 (\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442)\\labs\\spesialist\\spesialist_labs\\3.1_WebAPI_lab\\3.1_WebAPIClient_lab\\.gitignore",
-              "RelativeToolTip": "3.1_WebAPIClient_lab\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-02-22T18:10:54.028Z",
-              "EditorCaption": ""
             }
           ]
         }
